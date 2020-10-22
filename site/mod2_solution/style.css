@@ -1,10 +1,15 @@
 
 *{
   box-sizing: border-box;
-  font-family: 'Comic Neue', cursive ;
+  font-family:Roboto;
 }
   
-
+@font-face {
+  font-family: Arial, Helvetica, sans-serif;
+  src: url('webfont.eot'); /* IE9+ Compat Modes */
+  src: url('webfont.woff') format('woff'), /* Modern browsers */
+       
+}
 h1{
   color: #5680e9;;
   font-size: 60px;
