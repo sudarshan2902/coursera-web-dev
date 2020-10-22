@@ -35,8 +35,7 @@ section{
   border: 2px groove green;
   height: 210px;
   overflow: hidden;
-  border-top-left-radius: 25px;
-  border-bottom-right-radius: 25px;
+ 
 }
 
 section>h3{
